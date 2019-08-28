@@ -1,0 +1,16 @@
+git cat-file -t 0aab9737f12d67f86a7bcf92226d869a68395512 commit
+git cat-file -t 163419048479df1eb8a7af560d39c43ba53d902a tree
+git cat-file -t 341e54913a3a43069f2927cc0f703e5a9f730df1 tree
+git cat-file -t 444b3d5accf3c351b56a681380f97f3b63215f50 tree
+git cat-file -t 4b825dc642cb6eb9a060e54bf8d69288fbee4904 tree
+git cat-file -t 59e434385635dccf949e66353f7a74a077357438
+git cat-file -t 5a2318f434c35da3f18901f8617c7e304d6554c6 commit
+git cat-file -t 7a70fb8dab0eb1d858536cc6ca336cf50aaa6c9e tree
+git cat-file -t 8030fc54b2431281d6f839bb924b94cec537a829
+git cat-file -t 8236c2bebe11b021bc92615b88e6dd5642459954 commit
+git cat-file -t 8daf3375ee8862dc65695eb0f01912e982a6685c commit
+git cat-file -t 97578648a76227f183339438512ad99a383b48cc
+git cat-file -t ba01e984728cdc8c4a927ec4311b6d6985485a27 commit
+git cat-file -t cdd68a16111eb2bc3d586422435eaca2056bd1e5 tree
+git cat-file -t d989703067a9ff67ef5830e4084f05bc49ebef7a commit
+git cat-file -t e69de29bb2d1d6434b8b29ae775ad8c2e48c5391
